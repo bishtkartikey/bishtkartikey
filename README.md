@@ -4,10 +4,11 @@
 
 <h1 align="center">Hi 👋, I'm Kartikey.</h1>
 
-- 🔭 I’m currently working on **Heart Disease Prediction Model**
-- 🌱 I’m currently learning **Machine Learning, Deep Learning**
+- 🔭 I’m currently working on **Machine Learning, Deep Learning, and Data Science**
+- 🌱 I’m currently learning **Advanced AI techniques and Neural Networks**
+- 💻 Proficient in **Python, Flask, TensorFlow, Scikit-learn, C++,Java,GO and Firebase.**
 - 👯 I’m looking to collaborate on **Text Summarization Web App**
-- 🤝 I’m looking for help with **Instagram Clone**
+- 🤝 I’m looking for help with **Hola (Social Media app)**
 - 📫 How to reach me **kartikeybishtofficial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
