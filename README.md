@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://github.com/Elysian01/Elysian01/raw/main/git%20banner.jpg" alt="Banner Image" width="1200px" height="600px" />
-</h1>
+
 
 <h1 align="center">Hi 👋, I'm Kartikey</h1>
 
