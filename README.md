@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kartikey</h1>
 💫 About Me:
 
-🔭 I’m intrested in learning<br>👀 I’m currently learning Machine Learning, Deep Learning<br>🤝 I have learnt Java, C, C++, Python, HTML, CSS, OOPs Concept<br>📫 How to reach me: kartikeybisht141103@gmail.com<br>Graphic Era Hill University<br>📍 Bhimtal,Nainital,Uttrakhand
+🔭 I’m intrested in learning<br>👀 I’m currently learning Machine Learning, Deep Learning and Data Science.<br>🤝 I have learnt Java, C, C++, Python, HTML, CSS, OOPs Concept<br>📫 How to reach me: kartikeybisht141103@gmail.com<br>Graphic Era Hill University<br>📍 Bhimtal,Nainital,Uttrakhand
 
 
 ## 🌐 Socials:
