@@ -53,7 +53,4 @@
   </a>
 </p>
 
-(https://github.com/bishtkartikey/bishtkartikey/blob/output/github-contribution-grid-snake.gif)
-
-
 
