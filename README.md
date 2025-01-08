@@ -2,11 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm Kartikey</h1>
 
-- 🔭 I’m currently working on **Heart Disease Prediction Model**  
-- 🌱 I’m currently learning **Machine Learning, Deep Learning**  
-- 👯 I’m looking to collaborate on **Text Summarization Web App**  
-- 🤝 I’m looking for help with **Hola (Social media app)**  
-- 📫 How to reach me: **kartikeybisht141103@gmail.com**  
+- 🔭 I’m intrested in **learning**  
+- 👀  I’m currently learning **Machine Learning, Deep Learning**  
+🤝 I have learnt  **Java, C, C++, Python, HTML, CSS, OOPs Concept**  
+- 📫 How to reach me: **kartikeybisht141103@gmail.com**
+- **Graphic Era Hill University**
+- 📍 Bhimtal,Nainital,Uttrakhand
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
